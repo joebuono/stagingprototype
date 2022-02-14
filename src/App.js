@@ -3,7 +3,7 @@ import '@aws-amplify/ui-react/styles.css';
 
 function App() {
   return (
-    <Button backgroundColor="red">BUTTON</Button>
+    <Button backgroundColor="green">BUTTON</Button>
   );
 }
 
