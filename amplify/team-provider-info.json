@@ -10,6 +10,14 @@
       "StackName": "amplify-stagingprototype-dev-145925",
       "StackId": "arn:aws:cloudformation:us-east-1:340686642462:stack/amplify-stagingprototype-dev-145925/9e7207f0-8dd0-11ec-935d-0e06ed08c77f",
       "AmplifyAppId": "d20sfn7obg3qy7"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d20sfn7obg3qy7",
+          "type": "manual"
+        }
+      }
     }
   }
 }
